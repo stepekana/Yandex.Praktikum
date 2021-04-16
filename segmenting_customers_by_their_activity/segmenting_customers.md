@@ -1,6 +1,8 @@
 "Ненужные вещи" - сегментация пользователей.
 
-Стек: scipy, statsmodels.stats.proportion, plotly.express, matplotlib, seaborn, datetime,  pandas, numpy, math
+Стек: scipy, statsmodels.stats.proportion, plotly.express, matplotlib, seaborn, datetime,  pandas, numpy, math  
+Презентация:  
+https://docs.google.com/presentation/d/1yctNkJNxLGfpszzZDNZU-_jioOMKoXQTBLLmTpRuBJM/edit#slide=id.gc115562960_4_751
 
 В приложении пользователи продают свои ненужные вещи, размещая их на доске объявлений.
 По данным о событиях нужно рассчитать метрики использования приложения 
